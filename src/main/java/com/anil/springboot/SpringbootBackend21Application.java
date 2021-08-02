@@ -8,6 +8,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import com.anil.springboot.model.User;
 import com.anil.springboot.repository.UserRepository;
 
+/*
+ * This is the test project to demostrate how React talks to Spring boot. * 
+ */
+
+
 @SpringBootApplication
 public class SpringbootBackend21Application implements CommandLineRunner {
 
